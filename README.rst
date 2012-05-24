@@ -1,10 +1,10 @@
-# Django-Bootstrap-Template
-===========================
+Django-Bootstrap-Template
+=========================
 
 A starting point for Django projects that utilize Bootstrap. Also incorporates some best practices concerning project structure, settings.py etc. A work in progress. Inspired by:
 
-- `Repository Structure and Python<http://www.kennethreitz.com/repository-structure-and-python.html>`_ by Kenneth Reitz
-- `Django Best Practices<http://lincolnloop.com/django-best-practices/>`_
+- `Repository Structure and Python <http://www.kennethreitz.com/repository-structure-and-python.html>`_ by Kenneth Reitz
+- `Django Best Practices <http://lincolnloop.com/django-best-practices/>`_
 
 Why?
 ----
